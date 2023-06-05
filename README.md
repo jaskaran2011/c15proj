@@ -1,1 +1,1 @@
-# c15proj
+# Project-Template BB2
